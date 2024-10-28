@@ -1,7 +1,7 @@
 criaCartao(
     'Educação Física',
-    'Quantos jogadores cada time pode ter em quadra em um jogo de futsal?',
-    "Cada time pode ter no máximo 5 jogadores, 1 goleiro e 4 na linha"
+    'Qual o melhor jogador do mundp?',
+    "CRISTIANO RONALDO"
 )
 criaCartao(
     "Biologia",
